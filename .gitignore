@@ -2,3 +2,6 @@
 .DS_Store
 # dependencies
 /node_modules
+
+# dev
+/archive

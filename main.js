@@ -37,9 +37,10 @@ const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
 renderer.setAnimationLoop(animate);
 renderer.setPixelRatio(window.devicePixelRatio);
-renderer.toneMapping = THREE.NeutralToneMapping;
-renderer.toneMappingExposure = 2;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 0.8;
 document.body.appendChild(renderer.domElement);
+// renderer.domElement.style.filter = 'saturate(1)'; 
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 1000);
@@ -48,7 +49,7 @@ const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerH
 const root = new THREE.Object3D();
 scene.add(root);
 
-const count = 6;
+const count = images.length;
 for (let i = 0; i < count; i++) {
   const image = textureLoader.load(images[i]);
 
@@ -57,14 +58,21 @@ for (let i = 0; i < count; i++) {
 
   const border = new THREE.Mesh(
     new THREE.BoxGeometry(3.2, 2.2, 0.005),
-    new THREE.MeshStandardMaterial({ color: 0x303030 })
+    new THREE.MeshStandardMaterial({ color: 0x737373 })
   );
   border.position.z = -4;
   baseNode.add(border);
 
   const artwork = new THREE.Mesh(
     new THREE.BoxGeometry(3, 2, 0.01),
-    new THREE.MeshStandardMaterial({ map: image })
+    new THREE.MeshStandardMaterial({ 
+      map: image,
+      emissive: 0x111111,
+      emissiveIntensity: 0.6,
+      roughness: 0.05,
+      metalness: 2.0,
+      // side: THREE.DoubleSide
+    }),
   );
   artwork.position.z = -4;
   baseNode.add(artwork);
@@ -90,16 +98,22 @@ for (let i = 0; i < count; i++) {
   root.add(baseNode);
 }
 
-const spotlight = new THREE.SpotLight(0xffffff, 100.0, 10, 0.65, 1);
+// const spotlight = new THREE.SpotLight(0xffffff, 100.0, 10, 0.65, 1); //org
+// const spotlight = new THREE.SpotLight(0xffffff, 5.0, 20, 0.65); //parameters: color, intensity, distance, angle, penumbra
+const spotlight = new THREE.SpotLight(0xffffff, 0.8, 10, 0.65, 1); //parameters: color, intensity, distance, angle, penumbra
+
 spotlight.position.set(0, 5, 0);
 spotlight.target.position.set(0, 1, -5);
 scene.add(spotlight);
 scene.add(spotlight.target);
 
+const ambientLight = new THREE.AmbientLight(0xffffff, 0.8);
+scene.add(ambientLight);
+
 const mirror = new Reflector(
   new THREE.CircleGeometry(40, 64),
   {
-    color: 0x505050,
+    color: 0x737373,
     textureWidth: window.innerWidth * window.devicePixelRatio,
     textureHeight: window.innerHeight * window.devicePixelRatio,
 
