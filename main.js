@@ -21,7 +21,7 @@ const titles = [
 ];
 
 const artists = [
-  'Jacques-Louis David',
+  'Hello World! Welcome to the gallery of ME.',
   'Vincent Van Gogh',
   'Katsushika Hokusai',
   'Claude Monet',
