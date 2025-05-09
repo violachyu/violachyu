@@ -3,7 +3,7 @@ import { Reflector } from 'three/addons/objects/Reflector.js';
 import * as TWEEN from 'tween';
 
 const images = [
-  'socrates.jpg',
+  'intro.jpg',
   'stars.jpg',
   'wave.jpg',
   'spring.jpg',
@@ -12,7 +12,7 @@ const images = [
 ];
 
 const titles = [
-  'The Death of Socrates',
+  'VIOLA CHYU',
   'Starry Night',
   'The Great Wave off Kanagawa',
   'Effect of Spring, Giverny',
