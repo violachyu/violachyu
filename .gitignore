@@ -1,5 +1,6 @@
 # binary files
 .DS_Store
+.vite
 # dependencies
 /node_modules
 
