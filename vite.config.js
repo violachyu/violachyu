@@ -3,7 +3,7 @@
 */
 export default {
   // Set the base directory for GitHub pages
-  base: process.env.NODE_ENV === 'production' ? '/violachyu/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/' : '/',
   build: {
     outDir: './dist',
     sourcemap: true,
