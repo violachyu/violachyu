@@ -11,23 +11,46 @@ const images = [
   'sunday.jpg'
 ];
 
+// const images = [
+//   'intro.jpg',
+//   'starlink_0.jpg',
+//   'ar_0.png',
+//   'heelia_0.jpg',
+//   'ML_0.png',
+//   'bp_0.png',
+//   'newage_0 2.jpg',
+//   'at_0.png',
+//   'eye_0.png',
+//   // '',
+// ];
+
 const titles = [
-  'VIOLA CHYU',
-  'Starry Night',
-  'The Great Wave off Kanagawa',
-  'Effect of Spring, Giverny',
-  'Mount Corcoran',
-  'A Sunday on La Grande Jatte'
+  'VIOLA CHYU', // #1
+  'Starlink', // #2
+  'MastVR Studio', // #3
+  'Heelia', // #4
+  'MoveIt ML', // #5
+  'BoarderPlayground', 
+  'NewAge Designer',
+  'ATCargo',
+  'EyeCP',
+  'StagePass', //#10
 ];
 
 const artists = [
   'Hello World! Welcome to the gallery of ME.',
-  'Vincent Van Gogh',
-  'Katsushika Hokusai',
-  'Claude Monet',
-  'Albert Bierstadt',
-  'George Seurat'
+  'Shake It, Share It - Music in a Star!',
+  'VR Art Studio – Sculpt in 3D Like Magic!',
+  'Bone Health at Home – No Clinic Needed!',
+  'Wave, Punch, Twist – AI Knows Your Moves!',
+  'Sticky Notes Gone Wild – Collaborate Anywhere!',
+  'Aging, But Make It Cool!',
+  'Assistive Tech on Wheels – Coming to You!',
+  'Brain Pressure Check – No Needles, Just Glasses!',
+  'Karaoke Party – Wherever You Are!',
+  // 'George Seurat',
 ];
+
 
 const textureLoader = new THREE.TextureLoader();
 const leftArrowImage = textureLoader.load(`left.png`);
