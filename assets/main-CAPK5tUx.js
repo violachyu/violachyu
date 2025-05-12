@@ -59,8 +59,8 @@ import{c as Gt,g as Vt,i as Kt,a as Z,S as $e}from"./ScrollTrigger-Doy5pNnR.js";
                 <figcaption class="">
                   <p class="grid__custom__item-text">${u}
                     <br><br>
-                    <button class='custom-btn resume-btn'>Resume</button>
-                    <button class='custom-btn contact-btn'>Contact Me</button>
+                    <a href='https://v-resume-eight.vercel.app/' class='custom-btn resume-btn'>Resume</a>
+                    <a href='https://www.linkedin.com/in/viola-chyu-ab5b07112/' class='custom-btn contact-btn'>Contact Me</a>
                   </p>
                 </figcaption>
               </figure>
