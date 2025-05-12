@@ -1,21 +1,29 @@
 {
-  "name": "violachyu",
+  "name": "vio-anitest",
   "version": "1.0.0",
-  "description": "3D image gallery created with Three.js",
-  "main": "index.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "description": "",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "vite build && gh-pages -d dist"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "three": "^0.169.0",
-    "tween": "^0.9.0"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/violachyu/anitest.git"
   },
+  "keywords": [],
+  "author": "Codrops",
+  "license": "MIT",
+  "homepage": "https://violachyu.github.io/anitest/",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "^0.2.8",
+    "clipboard": "^2.0.11",
+    "gsap": "^3.13.0",
+    "imagesloaded": "^5.0.0"
   }
 }

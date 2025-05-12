@@ -1,12 +1,14 @@
-/**
-* @type {import('vite').UserConfig}
-*/
-export default {
-  // Set the base directory for GitHub pages
-  base: process.env.NODE_ENV === 'production' ? '/violachyu' : '/',
+// vite.config.js
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+  base: '/violachyu/', 
   build: {
-    outDir: './dist',
-    sourcemap: true,
+    rollupOptions: {
+      input: {
+        main: 'index.html',
+        details: 'details/index.html',
+      },
+    },
   },
-  publicDir: './public',
-}
+});
