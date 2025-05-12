@@ -2,7 +2,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/anitest/', 
+  base: '/violachyu/', 
   build: {
     rollupOptions: {
       input: {
