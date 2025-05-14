@@ -30,7 +30,7 @@
         {"img": "assets/atcargo.jpg", "caption": "ATCargo","projectName": "atcargo"},
         {"img": "assets/eyecp.jpg", "caption": "EyeCP","projectName": "eyecp"},
         {"img": "assets/stagepass.jpg", "caption": "StagePass","projectName": "stagepass"},
-        {"img": "assets/red_square_2.jpg", "caption": "","projectName": ""},
+        {"img": "assets/red_square_2_cropped.jpg", "caption": "","projectName": ""},
         {"img": "assets/red_square_3.jpg", "caption": "","projectName": ""},
         {"img": "assets/red_square_4.jpg", "caption": "","projectName": ""}
       ]
