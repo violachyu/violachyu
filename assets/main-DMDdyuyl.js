@@ -1,4 +1,4 @@
-import"./modulepreload-polyfill-B5Qt9EMX.js";import{c as Gt,g as Vt,i as Kt,a as Z,S as je}from"./ScrollTrigger-dVMdpZy3.js";import{r as Zt}from"./resumeData-CiSRScbQ.js";var xt={exports:{}};/*!
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{c as Gt,g as Vt,i as Kt,a as Z,S as je}from"./ScrollTrigger-dVMdpZy3.js";import{r as Zt}from"./resumeData-BfvhIc-0.js";var xt={exports:{}};/*!
  * clipboard.js v2.0.11
  * https://clipboardjs.com/
  *
