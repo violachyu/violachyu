@@ -14,7 +14,7 @@ I treat systems with a holistic view, but with "intensive care"-- obsessive atte
 **My philosophy:** 
 > "If life gives you lemonade, make lemons – and life will be all like 'whaaaaat?'" -- Phil Dunphy
 
-I find **FUN** in impossible situations; actively chasing that sweet, satisfying "aha!" moment when fresh insights suddenly clicks!
+I find **FUN** in impossible situations; actively chasing that sweet, satisfying "aha!" moment when fresh insights suddenly click!
 
 ---
 
