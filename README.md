@@ -25,13 +25,13 @@ My engineering philosophy blends deep technical rigor with product strategy. Wit
 
 ### 🚀 Featured Engineering Projects
 
-#### 🩺 Multi-Modal ML: Breast Cancer Classification()[Publication](https://drive.google.com/file/d/11j8wNc1OyOw3s487vgEz9Fu-wTaRmYnO/view?usp=sharing)
+#### 🩺 Multi-Modal ML: Breast Cancer Classification - [Publication](https://drive.google.com/file/d/11j8wNc1OyOw3s487vgEz9Fu-wTaRmYnO/view?usp=sharing)
 *AI-powered diagnostic pipeline integrating volumetric imaging with clinical data.*
 * **Architecture:** Designed an ensemble learning system combining a custom 3D CNN for MRI image analysis with XGBoost for structured clinical data.
 * **Impact:** Achieved **84.46% accuracy**, outperforming single-model baselines by effectively fusing multi-modal data streams.
 * **Tech:** Python, TensorFlow, Scikit-learn, Medical Imaging Processing.
 
-#### 🧳 [PackSavvy: Context-Aware Travel Assistant](https://github.com/violachyu/PackSavvy)[Publication](https://drive.google.com/file/d/1kzeTEOhFbNIHNimSmDTa9F-b_ydc1rnY/view?usp=drive_link)
+#### 🧳 [PackSavvy: Context-Aware Travel Assistant](https://github.com/violachyu/PackSavvy) - [Publication](https://drive.google.com/file/d/1kzeTEOhFbNIHNimSmDTa9F-b_ydc1rnY/view?usp=drive_link)
 *Mobile application transforming packing from a static checklist into a timeline-based workflow.*
 * Architecture:** Engineered a **dynamic list generation engine** that synthesizes destination, weather, and activity data to automate item decision-making. [cite_start]Designed a **temporal reminder system** for pre-trip logistics (e.g., regulations, home prep) to mitigate departure anxiety[cite: 48, 70].
 * [cite_start]**Impact:** Validated via **SUS (System Usability Scale)** testing, demonstrating reduced cognitive load and improved organization through modular record reusability[cite: 20, 69].
