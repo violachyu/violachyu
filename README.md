@@ -1,13 +1,25 @@
-# Hi there, I'm Viola Chyu. 👋
+# Hi there, I'm Viola. 👋
 
-### Software Engineer | Distributed Systems & AI Infrastructure
+### Software Engineer | Distributed Systems & AI Infrastructure | ex-Nurse
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viola-chyu-ab5b07112/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Cornell_Tech-firebrick?style=flat-square)](https://github.com/violachyu)
 
-I am a Software Engineer currently completing my Master's at **Cornell Tech** with 5+ YoE in backend development, specializing in building high-scale distributed systems and integrating Generative AI into production environments.
+I'm a software engineer who went from debugging people to debugging computers; who went from ICU to APIs.
 
-My engineering philosophy blends deep technical rigor with product strategy. With a background in **Venture Capital due diligence** and **product management**, I don't just write code; I design systems that balance latency, scalability, and business ROI.
+**My superpower?** 
+I see systems the way nurses see patients: holistically, with obsessive attention to detail, 
+and an unshakeable sense of responsibility when things break. While other engineers optimize for performance, 
+I optimize for reliability – because I've seen what happens when critical systems fail people who depend on them.
+
+**My philosophy:** 
+> "If life gives you lemonade, make lemons – and life will be all like 'whaaaaat?'" -- Phil Dunphy
+
+
+I find **FUN** in impossible situations. 
+I love that "aha!" moment when a complex problem suddenly clicks. 
+I thrive on the fresh insights that come from trying new approaches. 
+Innovation isn't just about solving problems – it's about *enjoying* the process, even (especially?) when it's hard.
 
 ---
 
@@ -33,8 +45,8 @@ My engineering philosophy blends deep technical rigor with product strategy. Wit
 
 #### 🧳 [PackSavvy: Context-Aware Travel Assistant](https://github.com/violachyu/PackSavvy) - [Publication](https://drive.google.com/file/d/1kzeTEOhFbNIHNimSmDTa9F-b_ydc1rnY/view?usp=drive_link)
 *Mobile application transforming packing from a static checklist into a timeline-based workflow.*
-* Architecture:** Engineered a **dynamic list generation engine** that synthesizes destination, weather, and activity data to automate item decision-making. [cite_start]Designed a **temporal reminder system** for pre-trip logistics (e.g., regulations, home prep) to mitigate departure anxiety[cite: 48, 70].
-* [cite_start]**Impact:** Validated via **SUS (System Usability Scale)** testing, demonstrating reduced cognitive load and improved organization through modular record reusability[cite: 20, 69].
+* **Architecture:** Engineered a **dynamic list generation engine** that synthesizes destination, weather, and activity data to automate item decision-making. Designed a **temporal reminder system** for pre-trip logistics (e.g., regulations, home prep) to mitigate departure anxiety.
+* **Impact:** Validated via **SUS (System Usability Scale)** testing, demonstrating reduced cognitive load and improved organization through modular record reusability.
 * **Tech:** iOS Prototype, Context-Aware Algorithms, User-Centered Design.
 
 #### 🎤 [StagePass: Real-Time Collaborative Karaoke](https://github.com/violachyu/stagepass)
