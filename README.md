@@ -37,13 +37,13 @@ My engineering philosophy blends deep technical rigor with product strategy. Wit
 * [cite_start]**Impact:** Validated via **SUS (System Usability Scale)** testing, demonstrating reduced cognitive load and improved organization through modular record reusability[cite: 20, 69].
 * **Tech:** iOS Prototype, Context-Aware Algorithms, User-Centered Design.
 
-* #### 🎤 [StagePass: Real-Time Collaborative Karaoke](https://github.com/violachyu/stagepass)
+#### 🎤 [StagePass: Real-Time Collaborative Karaoke](https://github.com/violachyu/stagepass)
 *Real-time audio synchronization platform for distributed virtual performances.*
 * **Architecture:** Engineered a low-latency event synchronization layer using **WebSockets** and **Next.js** to manage concurrent playlist queues and shared playback state across distributed clients.
 * **Focus:** Overcame serverless infrastructure limitations (Vercel) by optimizing socket state management, ensuring seamless host/guest synchronization without persistent connections.
 * **Tech:** Next.js, WebSockets, ThreeJS, Google OAuth, TailwindCSS.
 
-#### 💊 [Smart Medication Assistant]
+#### 💊 Smart Medication Assistant
 *AgeTech solution leveraging Computer Vision and LLMs to improve medication adherence.*
 * **Architecture:** Built a real-time interaction engine using **OpenCV** for OCR (prescription scanning) and the **OpenAI API** to process dosage instructions via a LINE chatbot interface.
 * **Focus:** Reduced elderly user friction by automating complex data entry through visual inputs.
