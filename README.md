@@ -7,11 +7,12 @@
 
 I'm a software engineer who went from debugging people to debugging computers; who went from ICU to APIs.
 
-**My superpower: The "Nurse" Mindset**
+💡 **My superpower:**
+* **The "Nurse" Mindset:** Reliability and availability over performance; I treat systems with a holistic view, but with "intensive care"-- obsessive attention to detail. 
+* **Driven by Curiosity:** I start with "Why?" (then follow up with more "Why?s"). My clinical background trains me to diagnose the *real* user problem before translating it into code.
+* **Rapid Prototyping:** Build ➔ Break ➔ Learn ➔ Iterate. I don't wait for "perfect"; I prioritize feedback-driven iteration, rapidly evolving prototypes into optimal solutions that fit the user.
 
-I treat systems with a holistic view, but with "intensive care"-- obsessive attention to detail. I optimize reliability and availability over performance because I've seen what happens when critical systems fail people who depend on them.
-
-**My philosophy:** 
+💡 **My philosophy:** 
 > "If life gives you lemonade, make lemons – and life will be all like 'whaaaaat?'" -- Phil Dunphy
 
 I find **FUN** in impossible situations; actively chasing that sweet, satisfying "aha!" moment when fresh insights suddenly click!
