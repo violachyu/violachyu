@@ -7,21 +7,14 @@
 
 I'm a software engineer who went from debugging people to debugging computers; who went from ICU to APIs.
 
-**My superpower?** 
+**My superpower: The "Nurse" Mindset**
 
-
-I see systems the way nurses see patients: holistically, with obsessive attention to detail, 
-and an unshakeable sense of responsibility when things break. While other engineers optimize for performance, 
-I optimize for reliability – because I've seen what happens when critical systems fail people who depend on them.
+I treat systems with a holistic view, but with "intensive care"-- obsessive attention to detail. I optimize reliability and availability over performance because I've seen what happens when critical systems fail people who depend on them.
 
 **My philosophy:** 
 > "If life gives you lemonade, make lemons – and life will be all like 'whaaaaat?'" -- Phil Dunphy
 
-
-I find **FUN** in impossible situations. 
-I love that "aha!" moment when a complex problem suddenly clicks. 
-I thrive on the fresh insights that come from trying new approaches. 
-Innovation isn't just about solving problems – it's about *enjoying* the process, even (especially?) when it's hard.
+I find **FUN** in impossible situations; actively chasing that sweet, satisfying "aha!" moment when fresh insights suddenly clicks!
 
 ---
 
@@ -29,7 +22,7 @@ Innovation isn't just about solving problems – it's about *enjoying* the proce
 
 | Domain | Stack |
 | :--- | :--- |
-| **Languages** | Python, C#, Java, Go, SQL, JavaScript/TypeScript |
+| **Languages** | Python, C#, Java, Go, JavaScript/TypeScript, SQL |
 | **Backend & Cloud** | Node.js, .NET/ASP.NET, Flask, Microservices, AWS, Azure |
 | **Data & Infrastructure** | Kafka, RabbitMQ, PostgreSQL, Redis, MongoDB, Docker, Kubernetes |
 | **AI & ML** | TensorFlow, PyTorch, OpenAI API, OpenCV, Pandas, NumPy |
