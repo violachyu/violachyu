@@ -39,7 +39,7 @@ Innovation isn't just about solving problems – it's about *enjoying* the proce
 
 ### 🚀 Featured Engineering Projects
 
-#### 🧠 AI & Data Science Engineering
+**AI & Data Science Engineering**
 
 #### 🩺 Multi-Modal ML: Breast Cancer Classification - [Publication](https://drive.google.com/file/d/11j8wNc1OyOw3s487vgEz9Fu-wTaRmYnO/view?usp=sharing)
 *AI-powered diagnostic pipeline integrating volumetric imaging with clinical data.*
@@ -47,18 +47,18 @@ Innovation isn't just about solving problems – it's about *enjoying* the proce
 * **Impact:** Achieved **84.46% accuracy**, outperforming single-model baselines by effectively fusing multi-modal data streams for enhanced medical diagnostics.
 * **Tech:** Python, TensorFlow, Scikit-learn, Medical Imaging Processing.
 
-##### 🎙️ Podcast ML: Listening Time Predictor - [Publication](https://drive.google.com/file/d/1dO0drn1sFkPo6DSGmGud3QLWyPa-YeY6/view?usp=drive_link)
+#### 🎙️ Podcast ML: Listening Time Predictor - [Publication](https://drive.google.com/file/d/1dO0drn1sFkPo6DSGmGud3QLWyPa-YeY6/view?usp=drive_link)
 * **Architecture:** Implemented and compared three custom regression models (MLR, Ridge, Polynomial) on **750k rows** of structured metadata, focusing on a lightweight, interpretable prediction pipeline.
 * **Impact:** Achieved a strong predictive ceiling ($\mathbf{R}^2$ of 0.7920) and deployed a **Streamlit dashboard** that democratizes actionable content optimization insights for independent creators.
 * **Tech:** Python, Streamlit, Multiple Regression Models (Custom/Scikit-learn/PyTorch), EDA/Preprocessing.
 
-##### 🧘 High 5 Habit Trial: Behavioral Health Data Analysis - [Publication](https://drive.google.com/file/d/1dO0drn1sFkPo6DSGmGud3QLWyPa-YeY6/view?usp=drive_link)
+#### 🧘 High 5 Habit Trial: Behavioral Health Data Analysis - [Publication](https://drive.google.com/file/d/1dO0drn1sFkPo6DSGmGud3QLWyPa-YeY6/view?usp=drive_link)
 * **Architecture:** Designed and executed a rigorous 6-week **A-B-B-A-B N-of-1 trial**; synthesized objective **Fitbit sensor data** (steps, HR) with daily subjective self-reports (mood, Pomodoros).
 * **Impact:** **Modeled the intervention using dynamic logistic regression**, demonstrating a substantial positive causal impact on the probability of high activity levels and a moderate effect on productivity.
 * **Tech:** Python, Dynamic Logistic Regression (Statsmodels), N-of-1 Trial Design, Data Synthesis.
 
 ---
-#### 🌐 Systems & Product Engineering
+**Systems & Product Engineering**
 
 #### 🎤 [StagePass: Real-Time Collaborative Karaoke](https://github.com/violachyu/stagepass)
 *Real-time audio synchronization platform for distributed virtual performances.*
