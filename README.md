@@ -79,4 +79,4 @@ I find **FUN** in impossible situations; actively chasing that sweet, satisfying
 
 ---
 **Certifications:**
-- ☁️ [AWS Certified Machine Learning - Specialty](https://www.linkedin.com/in/viola-chyu-ab5b07112/details/certifications/1762232724049/single-media-viewer/?type=DOCUMENT&profileId=ACoAABxI2WkB-bNOxg359cSLbrbiBx_MHCNxjIM)
+- ☁️ [AWS Certified Machine Learning Engineer](https://www.linkedin.com/in/viola-chyu-ab5b07112/details/certifications/1762232724049/single-media-viewer/?type=DOCUMENT&profileId=ACoAABxI2WkB-bNOxg359cSLbrbiBx_MHCNxjIM)
