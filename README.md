@@ -33,7 +33,7 @@ I find **FUN** in impossible situations; actively chasing that sweet, satisfying
 
 ### 🚀 Featured Engineering Projects
 
-**AI & Data Science Engineering**
+**== AI & Data Science Engineering ==**
 
 #### 🩺 Multi-Modal ML: Breast Cancer Classification - [Publication](https://drive.google.com/file/d/11j8wNc1OyOw3s487vgEz9Fu-wTaRmYnO/view?usp=sharing)
 *AI-powered diagnostic pipeline integrating volumetric imaging with clinical data.*
@@ -52,7 +52,7 @@ I find **FUN** in impossible situations; actively chasing that sweet, satisfying
 * **Tech:** Python, Dynamic Logistic Regression (Statsmodels), N-of-1 Trial Design, Data Synthesis.
 
 ---
-**Systems & Product Engineering**
+**== Systems & Product Engineering ==**
 
 #### 🎤 [StagePass: Real-Time Collaborative Karaoke](https://github.com/violachyu/stagepass)
 *Real-time audio synchronization platform for distributed virtual performances.*
